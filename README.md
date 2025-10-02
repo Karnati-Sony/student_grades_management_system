@@ -33,22 +33,22 @@ student-grades-management-system/
 > Below are key pages from the system:
 
 ### 🔐 AdminLogin Page
-![Login](img/output1.png)
+![Login](output1.png)
 
 ### 🏠 Admin Dashboard
-![Admin Dashboard](img/output2.png)
+![Admin Dashboard](output2.png)
 
 ### 👩‍🏫 StudentLogin Page
-![Teacher Panel](img/output3.png)
+![Teacher Panel](output3.png)
 
 ### 👨‍🎓 Student View
-![Student View](img/output4.png)
+![Student View](output4.png)
 
 ### 📊 TeacherLogin Page
-![Grades Page](img/output5.png)
+![Grades Page](output5.png)
 
 ### 🚪 Teacher Dashboard
-![Logout](img/output6.png)
+![Logout](output6.png)
 
 🛠️ How to Run This Project
  1. 🖥️ Requirements
